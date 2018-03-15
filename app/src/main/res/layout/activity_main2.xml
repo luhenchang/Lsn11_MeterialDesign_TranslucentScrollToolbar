@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.ls.lsn11_meterialdesign_translucentscrolltoolbar.MyListView
+        android:id="@+id/list_view"
+        android:clipToPadding="false"
+        android:clipChildren="false"
+        android:paddingTop="?attr/actionBarSize"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </com.example.ls.lsn11_meterialdesign_translucentscrolltoolbar.MyListView>
+
+    <android.support.v7.widget.Toolbar
+        android:background="@color/colorAccent"
+        app:title="老妖的茶壶"
+        android:id="@+id/app_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+
+    </android.support.v7.widget.Toolbar>
+</RelativeLayout>
+

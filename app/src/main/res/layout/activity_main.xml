@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ls.lsn11_meterialdesign_translucentscrolltoolbar.MainActivity">
+
+    <com.example.ls.lsn11_meterialdesign_translucentscrolltoolbar.MyScrollView
+        android:id="@+id/scroll_view"
+        android:clipToPadding="false"
+        android:clipChildren="false"
+        android:paddingTop="?attr/actionBarSize"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:text="button1"
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                android:text="button2"
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                android:text="button3"
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                android:text="button4"
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                android:text="button5"
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                style="?android:attr/buttonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </android.support.v7.widget.LinearLayoutCompat>
+    </com.example.ls.lsn11_meterialdesign_translucentscrolltoolbar.MyScrollView>
+
+    <android.support.v7.widget.Toolbar
+        android:background="@color/colorAccent"
+        app:title="老妖的茶壶"
+        android:id="@+id/app_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+
+    </android.support.v7.widget.Toolbar>
+</RelativeLayout>
